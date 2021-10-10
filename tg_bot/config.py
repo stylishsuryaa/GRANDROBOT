@@ -41,7 +41,7 @@ class Config(object):
     ALLOW_EXCL = False  # Allow ! commands as well as /
     CASH_API_KEY = None # Get one from https://www.alphavantage.co/support/#api-key
     TIME_API_KEY = None # Get one from https://timezonedb.com/register
-    API_OPENWEATHER = 1f9162253672478b1d53032f27f6c577 #Get API_OPENWEATHER FROM OFFICAL SITE https://da.gd/VAW3
+    API_OPENWEATHER = 5c5adc2bc1832de6943e3f4467e84c39 
     AI_API_KEY = None # Coffeehouse chatbot api key, get one from https://coffeehouse.intellivoid.info/
     WALL_API = None # Get one from https://wall.alphacoders.com/api.php
 
